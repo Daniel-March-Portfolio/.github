@@ -1,1 +1,7 @@
-[Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
+* [Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
+   * [Python](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python)
+     * [Searches](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search)
+       * [Binary search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search)
+         * [left_binary_search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search/left_binary_search)
+         * [right_binary_search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search/right_binary_search)
+         * [strict_binary_search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search/strict_binary_search)
