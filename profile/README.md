@@ -6,3 +6,4 @@
          * [right_binary_search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search/right_binary_search)
          * [strict_binary_search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search/strict_binary_search)
        * [Breadth-first search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/breadth_first_search)
+       * [Depth-first search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/depth_first_search)
