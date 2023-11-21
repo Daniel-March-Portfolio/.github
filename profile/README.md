@@ -7,3 +7,7 @@
          * [strict_binary_search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/binary_search/strict_binary_search)
        * [Breadth-first search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/breadth_first_search)
        * [Depth-first search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/depth_first_search)
+     * [Sorting](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort)
+       * [Bubble sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/bubble_sort)
+       * [Insertion sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/insertion_sort)
+       * [Quick sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/quick_sort)
