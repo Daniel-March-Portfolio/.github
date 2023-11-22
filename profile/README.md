@@ -11,3 +11,4 @@
        * [Bubble sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/bubble_sort)
        * [Insertion sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/insertion_sort)
        * [Quick sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/quick_sort)
+       * [Selection sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/selection_sort)
