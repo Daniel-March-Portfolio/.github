@@ -9,6 +9,7 @@
        * [Depth-first search](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search/depth_first_search)
      * [Sorting](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort)
        * [Bubble sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/bubble_sort)
+       * [Counting sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/counting_sort)
        * [Insertion sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/insertion_sort)
        * [Merge sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/merge_sort)
        * [Quick sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/quick_sort)
