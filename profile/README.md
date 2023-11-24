@@ -1,3 +1,5 @@
+* Work experience
+  * [Yandex](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/Yandex(16.08.2023-15.11.2023).md)
 * Non-commercial projects
   * ToDoAPI - in progress
 * [Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
