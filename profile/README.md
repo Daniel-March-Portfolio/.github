@@ -1,7 +1,11 @@
 * Work experience
   * [Yandex](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/Yandex(16.08.2023-15.11.2023).md)
+  * Stok - in description process
+  * TechSolution - in description process 
 * Non-commercial projects
   * ToDoAPI - in progress
+  * VAK-i-tochka - in description process
+  * BreakageNotifier - in description process 
 * [Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
   * [Python](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python)
     * [Searches](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search)
