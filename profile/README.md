@@ -16,3 +16,4 @@
       * [Selection sort](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/sort/selection_sort)
     * [Data structures](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/data_structure)
       * [Stack](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/data_structure/stack)
+      * [Queue](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/data_structure/queue)
