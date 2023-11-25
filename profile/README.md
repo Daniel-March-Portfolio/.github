@@ -3,9 +3,10 @@
   * [Stok](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/Stok(01.05.2022-01.10.2022).md)
   * [TechSolution](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/TechSolution(01.11.2022-01.02.2022).md) 
 * Non-commercial projects
-  * ToDoAPI - in progress
   * [VAK-i-tochka](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/vak_i_tochka/README.md)
   * [BreakageNotifier](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/breakage_notifier/README.md)
+* Demo-projects
+  * ToDoAPI - in progress
 * [Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
   * [Python](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python)
     * [Searches](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search)
