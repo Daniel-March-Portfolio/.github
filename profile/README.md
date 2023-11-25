@@ -1,7 +1,7 @@
 * Work experience
   * [Yandex](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/Yandex(16.08.2023-15.11.2023).md)
   * [Stok](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/Stok(01.05.2022-01.10.2022).md)
-  * TechSolution - in description process 
+  * [TechSolution](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/TechSolution(01.11.2022-01.02.2022).md) 
 * Non-commercial projects
   * ToDoAPI - in progress
   * [VAK-i-tochka](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/vak_i_tochka/README.md)
