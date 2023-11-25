@@ -3,7 +3,7 @@
 ### Stack:
 * Python
   * aiohttp
-  * SQLAlchemy
+  * Gino
   * asyncio
 * JavaScript
   * Vue.js
