@@ -6,7 +6,7 @@
   * [VAK-i-tochka](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/vak_i_tochka/README.md)
   * [BreakageNotifier](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/breakage_notifier/README.md)
 * Demo-projects
-  * ToDoAPI - in progress
+  * [ToDoAPI](https://github.com/Daniel-March-Portfolio/ToDoAPI) - in dev
 * [Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
   * [Python](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python)
     * [Searches](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search)
