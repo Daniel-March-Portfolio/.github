@@ -6,7 +6,7 @@
   * [VAK-i-tochka](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/vak_i_tochka/README.md)
   * [BreakageNotifier](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/breakage_notifier/README.md)
 * Demo-projects
-  * [ToDoAPI](https://github.com/Daniel-March-Portfolio/ToDoAPI) - in polishing
+  * [ToDoAPI](https://github.com/Daniel-March-Portfolio/ToDoAPI)
   * KubernetesDemoUsage - planned (few services connected with kubernetes)
   * DemoBlog - planned (simple Django app)
   * DemoShop - planned (simple Django/other app with demo payment integration)
