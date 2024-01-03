@@ -8,7 +8,7 @@
 * Demo-projects
   * [ToDoAPI](https://github.com/Daniel-March-Portfolio/ToDoAPI)
   * KubernetesDemoUsage - planned (few services connected with kubernetes)
-  * [DemoShop](https://github.com/Daniel-March-Portfolio/DemoShop) - in progress(ready to view)
+  * [DemoShop](https://github.com/Daniel-March-Portfolio/DemoShop) - in progress (ready to view)
 * [Algorithms](https://github.com/Daniel-March-Portfolio/Algorithms)
   * [Python](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python)
     * [Searches](https://github.com/Daniel-March-Portfolio/Algorithms/tree/master/python/search)
