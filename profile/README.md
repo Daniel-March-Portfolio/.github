@@ -4,11 +4,11 @@
   * [TechSolution](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/work_experience/TechSolution(01.11.2022-01.02.2022).md) 
 * Demo-projects
   * [ToDoAPI](https://github.com/Daniel-March-Portfolio/ToDoAPI)
-  * KubernetesDemoUsage - planned (few services connected with kubernetes)
   * [DemoShop](https://github.com/Daniel-March-Portfolio/DemoShop) - in progress (ready to view)
 * Non-commercial projects
   * [VAK-i-tochka](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/vak_i_tochka/README.md)
   * [BreakageNotifier](https://github.com/Daniel-March-Portfolio/.github/blob/main/profile/non_commercial_projects/breakage_notifier/README.md)
+* [LeetCode](https://github.com/Daniel-March-Portfolio/LeetCode)
 * [Algorithms and data structures](https://github.com/Daniel-March-Portfolio/Algorithms-and-data-structures)
   * [Python](https://github.com/Daniel-March-Portfolio/Algorithms-and-data-structures/tree/master/python)
     * [Searches](https://github.com/Daniel-March-Portfolio/Algorithms-and-data-structures/tree/master/python/search)
